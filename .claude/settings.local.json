@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gingerpeople.com)",
+      "WebSearch",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:eu.gingerpeople.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:www.faire.com)",
+      "WebFetch(domain:craft.co)",
+      "WebFetch(domain:builtwith.com)",
+      "WebFetch(domain:www.wholefoodsmarket.com)",
+      "WebFetch(domain:the-ginger-people.tenereteam.com)",
+      "WebFetch(domain:pagespeed.web.dev)",
+      "WebFetch(domain:chimesgourmet.com)",
+      "WebFetch(domain:www.iherb.com)",
+      "WebFetch(domain:princeofpeaceginger.com)"
+    ]
+  }
+}
