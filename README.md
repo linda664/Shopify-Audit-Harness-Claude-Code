@@ -32,3 +32,16 @@ Scores four dimensions: executive summary, experiments, competitor analysis, tec
 - `sample_output/zenrojas.com.md` — generalization target
 
 ## Structure
+
+CLAUDE.md              # Agent entry point
+skills/
+crawl.md             # Phase 1: crawl instructions
+reason.md            # Phase 2: reasoning framework
+write.md             # Phase 3: report writing
+evals/
+eval.py              # Rubric-based eval scorer
+sample_output/         # Generated audit reports
+target_report.md       # Calibration anchor
+EVAL_LOOP.md           # Autonomy roadmap for the eval system
+AGENT_LOG.md           # Time log and prompt log
+WORKFLOWS.md           # How I work with coding agents
