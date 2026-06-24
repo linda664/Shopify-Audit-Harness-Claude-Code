@@ -1,6 +1,6 @@
 # shopify-audit-harness
 
-A runtime harness that turns Claude Code into a Shopify CRO audit agent. Point it at any Shopify URL — it crawls the storefront, reasons over the artifacts, and produces a structured audit report.
+A runtime harness(`CLAUDE.md` and skills file) that turns Claude Code into a Shopify CRO audit agent. Point it at any Shopify URL — it crawls the storefront, reasons over the artifacts, and produces a structured audit report.
 
 ## How it works
 
